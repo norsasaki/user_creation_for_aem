@@ -1,0 +1,13 @@
+givenName,familyName,email,groups,password,LOCAL,STAGE,PROD
+Zalmers,Thomas,zalmers.thomas@gmail.com,administrators,password12345,thomas_local,thomas_stage,thomas_prod
+Zobel,Jansson,zobel.jansson@gmail.com,contributor,password12345,jansson_local,jansson_stage,jansson_prod
+Yount,Larsson,yount.larsson@gmail.com,dam-users,password12345,larsson_local,larsson_stage,larsson_prod
+Yarbrough,Bengtsson,yarbrough.bengtsson@gmail.com,content-authors,password12345,bengtsson_local,bengtsson_stage,bengtsson_prod
+Zimmermann,Jacobsen,zimmermann.jacobsen@gmail.com,administrators,password12345,jacobsen_local,jacobsen_stage,jacobsen_prod
+Zindel,Murray,zindel.murray@gmail.com,contributor,password12345,murray_local,murray_stage,murray_prod
+Younts,Patel,younts.patel@gmail.com,dam-users,password12345,patel_local,patel_stage,patel_prod
+Zallar,Edwards,zallar.edwards@gmail.com,content-authors,password12345,edwards_local,edwards_stage,edwards_prod
+Yonker,Olsen,yonker.olsen@gmail.com,administrators,password12345,olsen_local,olsen_stage,olsen_prod
+Zamastil,Gustavsson,zamastil.gustavsson@gmail.com,contributor,password12345,gustavsson_local,gustavsson_stage,gustavsson_prod
+Zeman,Martin,zeman.martin@gmail.com,dam-users,password12345,martin_local,martin_stage,martin_prod
+Yarbrough,Mitchell,yarbrough.mitchell@gmail.com,content-authors,password12345,mitchell_local,mitchell_stage,mitchell_prod

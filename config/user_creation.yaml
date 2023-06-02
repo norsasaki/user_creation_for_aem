@@ -1,0 +1,17 @@
+userlist: config/sample_users.csv
+work_dir: tmp
+mode: export
+target: LOCAL
+environment: 
+ - name: LOCAL
+   url: http://localhost:4502
+   user: admin
+   password: admin
+ - name: STAGE
+   url: http://localhost:4502
+   user: admin
+   password: admin
+ - name: PROD
+   url: http://localhost:4502
+   user: admin
+   password: admin
